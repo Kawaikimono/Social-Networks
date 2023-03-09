@@ -1,0 +1,25 @@
+{
+  "name": "lesson-18-mongo-networks",
+  "version": "1.0.0",
+  "description": "```\r This project was to make a database using Node.js, Inquirer, and MySQ. \r ```",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kawaikimono/Lesson-18-Mongo-Networks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kawaikimono/Lesson-18-Mongo-Networks/issues"
+  },
+  "homepage": "https://github.com/Kawaikimono/Lesson-18-Mongo-Networks#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.1.0",
+    "mongoose": "^7.0.1"
+  }
+}
