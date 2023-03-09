@@ -10,7 +10,7 @@ This project was to build an API for a social network web application.
 
 ## Depolyed Viewing
 
-Video link: 
+Video link: https://drive.google.com/file/d/1Y7sxegRtC3lcydhSmtdMgnhJo4GrAf75/view
 
 GitHub Link: https://github.com/Kawaikimono/Lesson-18-Mongo-Networks
 
